@@ -6,30 +6,3 @@ body {
 h1 {
   text-align: center;
 }
-
-#hobbies {
-  float: left;
-  background-color: slategray;
-  color: red;
-  box-sizing: border-box;
-  border: solid red 3px;
-  padding: 5px;
-}
-
-#skills {
-  float: left;
-  background-color: slategray;
-  color: red;
-  box-sizing: border-box;
-  border: solid red 3px;
-  padding: 5px;
-}
-
-#interests {
-  float: left;
-  background-color: slategray;
-  color: red;
-  box-sizing: border-box;
-  border: solid red 3px;
-  padding: 5px;
-}

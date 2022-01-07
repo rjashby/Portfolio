@@ -1,21 +1,59 @@
 body {
-  background-color: #E9C46A;
+  background-color: #2a9d8f;
   margin: 20px;
+  color: #e9c46a;
 }
 
 h1 {
   text-align: center;
+  color: #d62828;
+}
+
+#back {
+  background-color: #e76f51;
+  border: solid #264653 1rem;
+  width: 40%;
+}
+
+#school {
+  background-color: #e76f51;
+  border: solid #264653 1rem;
+  width: 40%;
+}
+
+#work {
+  background-color: #e76f51;
+  border: solid #264653 1rem;
+  width: 40%;
+}
+
+a {
+  color: #e9c46a
+}
+
+h3 {
+  color: #d62828
 }
 
 .sidebar {
   float: right;
-  background-color: slategray;
-  color: green;
+  background-color: #e76f51;
+  color: #e9c46a;
   box-sizing: border-box;
-  border: solid green 3px;
+  border: solid #264653 1rem;
   padding: 5px;
 }
 
 #PA {
   font-family: monospace;
+}
+
+.footer {
+  margin: 10px;
+  border: solid #264653 1rem;
+  width: 10%;
+}
+
+p {
+  font-size: larger;
 }

@@ -33,6 +33,10 @@ a {
   text-align: center;
 }
 
+.jummbotron h1 h4 {
+  color: #d62828;
+}
+
 p {
   font-size: larger;
 }

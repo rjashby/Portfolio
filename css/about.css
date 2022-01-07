@@ -1,8 +1,17 @@
 body {
-  background-color: slategray;
+  background-color: slateblue;
   margin: 20px;
 }
 
 h1 {
   text-align: center;
+}
+
+.sidebar {
+  float: right;
+  background-color: slategray;
+  color: green;
+  box-sizing: border-box;
+  border: solid green 3px;
+  padding: 5px;
 }

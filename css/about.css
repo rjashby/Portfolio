@@ -15,3 +15,7 @@ h1 {
   border: solid green 3px;
   padding: 5px;
 }
+
+#PA {
+  font-family: monospace;
+}

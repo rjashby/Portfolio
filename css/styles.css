@@ -7,18 +7,32 @@ body {
 img {
   width: 30rem;
   border-radius: 5rem;
+  height: auto;
 }
 
 .col {
   background-color: #e76f51;
   border: solid #264653 1rem;
+  border-radius: 1rem;
+
+}
+
+a {
+  color: #b5179e;
 }
 
 .col ul {
-  list-style-type: disc;
+  list-style-type: '🔰';
+  font-size: large;
 }
 
 .jumbotron {
   background-color: #e76f51;
   border: solid #264653 2rem;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+p {
+  font-size: larger;
 }

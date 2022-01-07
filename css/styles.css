@@ -1,6 +1,7 @@
 body {
-  background-color: slateblue;
+  background-color: #2a9d8f;
   margin: 20px;
+  color: #e9c46a;
 }
 
 img {
@@ -9,9 +10,15 @@ img {
 }
 
 .col {
-  background-color: wheat;
+  background-color: #e76f51;
+  border: solid #264653 1rem;
 }
 
 .col ul {
   list-style-type: disc;
+}
+
+.jumbotron {
+  background-color: #e76f51;
+  border: solid #264653 2rem;
 }

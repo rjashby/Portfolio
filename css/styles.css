@@ -10,8 +10,6 @@ img {
 
 .col {
   background-color: wheat;
-  box-sizing: border-box;
-  float: left;
 }
 
 .col ul {

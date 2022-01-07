@@ -1,0 +1,16 @@
+body {
+  background-color: slateblue;
+  margin: 20px;
+}
+
+h1 h4 {
+  text-align: justify;
+}
+
+.col {
+  background-color: slategray;
+  color: green;
+  box-sizing: border-box;
+  border: solid green 3px;
+  padding: 5px;
+}

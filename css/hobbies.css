@@ -14,3 +14,8 @@ h1 h4 {
   border: solid green 3px;
   padding: 5px;
 }
+
+img {
+  width: 30rem;
+  border-radius: 5rem;
+}

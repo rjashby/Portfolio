@@ -9,7 +9,7 @@ h1 h4 {
 
 .col {
   background-color: slategray;
-  color: green;
+  color: wheat;
   box-sizing: border-box;
   border: solid green 3px;
   padding: 5px;
@@ -18,4 +18,20 @@ h1 h4 {
 img {
   width: 30rem;
   border-radius: 5rem;
+}
+
+#list1 {
+  list-style-type: '♾️';
+}
+
+#list2 {
+  list-style-type: '🐼';
+}
+
+li {
+  font-size: large;
+}
+
+p {
+  font-size: larger;
 }

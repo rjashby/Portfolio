@@ -1,17 +1,26 @@
 body {
-  background-color: #E9C46A;
+  background-color: #2a9d8f;
   margin: 20px;
+  color: #d62828;
 }
 
-h1 h4 {
-  text-align: justify;
+h3 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
 }
 
 .col {
-  background-color: slategray;
-  color: wheat;
+  background-color: #e76f51;
+  color: #e9c46a;
   box-sizing: border-box;
-  border: solid green 3px;
+  border: solid #264653 1rem;
   padding: 5px;
 }
 
@@ -36,6 +45,10 @@ p {
   font-size: larger;
 }
 
-#nav {
-  color: slategray
+.footer {
+  margin: 10px;
+  border: solid #264653 1rem;
+  width: 10%;
+  font-size: large;
+  padding: .5rem;
 }

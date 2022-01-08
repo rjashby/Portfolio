@@ -14,11 +14,11 @@ img {
   background-color: #e76f51;
   border: solid #264653 1rem;
   border-radius: 1rem;
-
+  margin: .4rem;
 }
 
 a {
-  color: #b5179e;
+  color: #d62828;
 }
 
 .col ul {
@@ -31,10 +31,6 @@ a {
   border: solid #264653 2rem;
   border-radius: 1rem;
   text-align: center;
-}
-
-.jummbotron h1 h4 {
-  color: #d62828;
 }
 
 p {

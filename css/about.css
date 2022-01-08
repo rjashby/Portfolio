@@ -7,32 +7,40 @@ body {
 h1 {
   text-align: center;
   color: #d62828;
+  text-decoration: underline;
 }
 
 #back {
   background-color: #e76f51;
   border: solid #264653 1rem;
   width: 40%;
+  border-radius: 1rem;
+  padding: 1rem;
 }
 
 #school {
   background-color: #e76f51;
   border: solid #264653 1rem;
   width: 40%;
+  border-radius: 1rem;
+  padding: 1rem;
 }
 
 #work {
   background-color: #e76f51;
   border: solid #264653 1rem;
   width: 40%;
+  border-radius: 1rem;
+  padding: 1rem;
 }
 
 a {
-  color: #e9c46a
+  color: #d62828;
 }
 
 h3 {
-  color: #d62828
+  color: #d62828;
+  text-decoration: underline;
 }
 
 .sidebar {
@@ -42,6 +50,8 @@ h3 {
   box-sizing: border-box;
   border: solid #264653 1rem;
   padding: 5px;
+  border-radius: 1rem;
+  font-size: large;
 }
 
 #PA {
@@ -52,8 +62,11 @@ h3 {
   margin: 10px;
   border: solid #264653 1rem;
   width: 10%;
+  font-size: large;
+  padding: .5rem;
 }
 
 p {
   font-size: larger;
 }
+

@@ -6,6 +6,7 @@ body {
 
 h3 {
   text-align: center;
+  text-decoration: underline;
 }
 
 h1 {
@@ -21,7 +22,9 @@ h4 {
   color: #e9c46a;
   box-sizing: border-box;
   border: solid #264653 1rem;
-  padding: 5px;
+  padding: 15px;
+  border-radius: 1rem;
+  margin: .5rem;
 }
 
 img {
@@ -45,10 +48,20 @@ p {
   font-size: larger;
 }
 
+a {
+  color: #d62828;
+}
+
 .footer {
   margin: 10px;
   border: solid #264653 1rem;
   width: 10%;
   font-size: large;
   padding: .5rem;
+  color: #e9c46a;
+  border-radius: 1rem;
+}
+
+.footer ul {
+  list-style-type: '🍕';
 }

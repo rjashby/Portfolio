@@ -54,6 +54,10 @@ h3 {
   font-size: large;
 }
 
+.sidebar ul {
+  list-style-type: '🛫';
+}
+
 #PA {
   font-family: monospace;
 }
@@ -64,6 +68,10 @@ h3 {
   width: 10%;
   font-size: large;
   padding: .5rem;
+}
+
+.footer ul {
+  list-style-type: '🍔';
 }
 
 p {

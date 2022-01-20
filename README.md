@@ -3,7 +3,7 @@
 
 #### By _**Ryan Ashby**_ 
 
-#### _A simple HTML style, which serves as a brief introduction to myself, my work, and my interests.s_ 
+#### _A simple HTML style, which serves as a brief introduction to myself, my work, and my interests._ 
 
 ### _Link to the Published Site_
 
